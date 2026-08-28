@@ -94,7 +94,6 @@ let output = processor.process(
 - [架構](Architecture.md)
 - [遷移](Migration.md)
 - [示範 App](../../Examples/Documentation/zh-Hant/README.md)
-- [參與貢獻](CONTRIBUTING.md)
 - [安全政策](SECURITY.md)
 - [行為準則](CODE_OF_CONDUCT.md)
 - [變更記錄](CHANGELOG.md)

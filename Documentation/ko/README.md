@@ -94,7 +94,6 @@ let output = processor.process(
 - [아키텍처](Architecture.md)
 - [마이그레이션](Migration.md)
 - [데모 앱](../../Examples/Documentation/ko/README.md)
-- [기여](CONTRIBUTING.md)
 - [보안 정책](SECURITY.md)
 - [행동 강령](CODE_OF_CONDUCT.md)
 - [변경 기록](CHANGELOG.md)
